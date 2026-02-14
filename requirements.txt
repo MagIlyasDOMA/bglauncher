@@ -1,0 +1,2 @@
+pathlike-typing
+pyinstaller==6.18.0
