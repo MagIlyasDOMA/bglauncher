@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 ; Non-commercial use only
 
-#define MyAppName "bglauncher"
+#define MyAppName "BGLauncher"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "Маг Ильяс DOMA (MagIlyasDOMA)"
 
